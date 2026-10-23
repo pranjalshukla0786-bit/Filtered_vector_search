@@ -1,0 +1,6 @@
+strategy,mean_recall,frac_recall_ok,p50_ms,p95_ms
+1_exact_prefilter,1.0,1.0,0.453,2.811
+2_hnsw_where,0.66,0.488,0.17,0.34
+3_hnsw_overfetch100,0.5,0.327,0.297,0.448
+4_hnsw_iterative,0.988,0.907,0.162,0.815
+R_router,0.835,0.75,0.594,0.973
